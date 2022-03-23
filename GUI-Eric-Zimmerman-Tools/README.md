@@ -11,6 +11,6 @@ In this project we did not cover all the tools . In coming days i will improve t
 # Usage :
 Just download the exe file . 
 
-Link : https://drive.google.com/file/d/1jBGVSFAyDWVvOT58ypuPZ3f88EOBUA25/view?usp=sharing
+Link : https://drive.google.com/file/d/1r5fRsboo091fkxlHobHHdRlwhnOHGwHA/view?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/99384019/159705553-91ee12c8-d43c-40ac-9374-c57e073f5ed6.png)
