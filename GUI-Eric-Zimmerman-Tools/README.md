@@ -8,7 +8,7 @@ In this project we did not cover all the tools . In coming days i will improve t
 
 ------------------------------------------------------------------------------------------------------------------------
 
-How to download the program ?
+How to download the tool ?
 Just download the Portable Executable . 
 
 Link : https://drive.google.com/file/d/1Iy-v3egYf56WUm7S9JOJcoIvsE4LHWXw/view?usp=sharing
