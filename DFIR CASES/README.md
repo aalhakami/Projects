@@ -2,6 +2,9 @@
 ### CASE 01: Skimming device
 Evidence Item: 1_Skimmer_mSD 
 
+![image](https://user-images.githubusercontent.com/99384019/229348961-116bf320-c4da-40a8-99c0-f1a8422358d4.png)
+
+
 On April 9th, 2021, at 16:25, a “Skimming” device was discovered on the ATM of the Swiss Post location in Avenue Piccard, 1015 Lausanne, Switzerland. 
 
 The device was discovered when it malfunctioned and detached as a customer withdrew his credit card (CC) from the machine. According to security cameras, it was possible to establish that the device was placed shortly before at 16:20. 
